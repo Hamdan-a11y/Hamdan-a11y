@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>ZABDESK Faculty Automation System (Final Year Project)<br><br>👯 I’m looking to collaborate on<br>Python projects, frontend development, and beginner-friendly web apps<br><br>🤝 I’m looking for help with<br>Project architecture, best practices, and real-world development guidance<br><br>🌱 I’m currently learning Frontend development, Django, databases, and modern dev workflows<br><br>💬Python, C++, HTML/CSS, Final Year Projects, and CS basics<br><br>⚡I enjoy breaking complex problems into simple, understandable steps
+🔭 Working on ZABDESK (Final Year Project)
+👯 Open to Python & Web collaborations
+🤝 Looking for help with project best practices
+🌱 Learning Frontend, Django & Databases
+💬 Ask me about Python, C++, HTML/CSS
+⚡ Fun fact: I simplify complex problems
 
 
 ## 🌐 Socials:
