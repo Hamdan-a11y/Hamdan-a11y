@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hey, I'm Hamdan 🤚
 🔭 Working on ZABDESK (Final Year Project)
 👯 Open to Python & Web collaborations
 🤝 Looking for help with project best practices
