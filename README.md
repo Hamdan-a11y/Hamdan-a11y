@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Working on ZABDESK Faculty Automation System (Final Year Project)<br>👯 Open to Python & Web collaborations<br>🤝 Looking for help with project best practices<br>🌱 Learning Frontend, Django & Databases<br>💬 Ask me about Python, C++, HTML/CSS<br>⚡ Fun fact: I simplify complex problems
+#   About Me:
+  Working on ZABDESK Faculty Automation System (Final Year Project)<br>  Open to Python & Web collaborations<br>  Looking for help with project best practices<br>  Learning Frontend, Django & Databases<br>  Ask me about Python, C++, HTML/CSS<br>  Fun fact: I simplify complex problems
 
 
 ## 🌐 Socials:
