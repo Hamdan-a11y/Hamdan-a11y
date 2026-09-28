@@ -1,46 +1,118 @@
-# Hi, I'm Muhammad Hamdan 👋
+<div align="center">
 
-**Junior MERN / Web Developer** | CS graduate, SZABIST Islamabad (2026)
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · hamdan-a11y</sub></p>
+<h1>Muhammad Hamdan</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Computer Science student at SZABIST Islamabad.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Islamabad · Building at szabist</sub></p>
+<p><a href="https://github.com/hamdan-a11y">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=hamdan-a11y&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242740933%3Fu%3Dbf09e0d23366562e0aa946bd02d950e5b70b80a4%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=hamdan-a11y&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242740933%3Fu%3Dbf09e0d23366562e0aa946bd02d950e5b70b80a4%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Muhammad Hamdan animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
+</div>
 
-I build full-stack web apps, REST APIs, and automation tools. I'm currently **open to junior MERN and web developer roles**.
+<h2>What teams can evaluate quickly</h2>
 
-🌐 [Portfolio](https://hamdan-a11y.github.io/Hamdan) · 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-hamdan-293a09421/) · 📧 [Email](mailto:muhammadhumdan43@gmail.com)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · JavaScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>35 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>279 contributions · 56 active days</p></td>
+</tr>
+</table>
 
----
+<p><sub>Computer Science student at SZABIST Islamabad.</sub></p>
 
-## 🛠️ Tech Stack
+<h2>Proof at a glance</h2>
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>35</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>279</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=hamdan-a11y&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242740933%3Fu%3Dbf09e0d23366562e0aa946bd02d950e5b70b80a4%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=hamdan-a11y&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242740933%3Fu%3Dbf09e0d23366562e0aa946bd02d950e5b70b80a4%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Muhammad Hamdan GitHub proof metrics" />
+</picture>
+</p>
 
-**Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<h2>Selected work</h2>
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=hamdan-a11y&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242740933%3Fu%3Dbf09e0d23366562e0aa946bd02d950e5b70b80a4%26v%3D4&repos=hamdan-a11y%2FShelf-Life%2Chamdan-a11y%2FIntern-pulse%2Chamdan-a11y%2FAI-Code-Review-Assistant%2Chamdan-a11y%2Fmy-react-dashboard&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=hamdan-a11y&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242740933%3Fu%3Dbf09e0d23366562e0aa946bd02d950e5b70b80a4%26v%3D4&repos=hamdan-a11y%2FShelf-Life%2Chamdan-a11y%2FIntern-pulse%2Chamdan-a11y%2FAI-Code-Review-Assistant%2Chamdan-a11y%2Fmy-react-dashboard&v=recruiter-projects-1&mode=dark" width="100%" alt="Muhammad Hamdan selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Hamdan-a11y/Shelf-Life">Shelf-Life</a></h3>
+<p>A selected public project.</p>
+<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/Hamdan-a11y/Shelf-Life">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Hamdan-a11y/Intern-pulse">Intern-pulse</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Hamdan-a11y/AI-Code-Review-Assistant">AI-Code-Review-Assistant</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Hamdan-a11y/my-react-dashboard">my-react-dashboard</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-## 🎓 Education & Certifications
-- **BS Computer Science**, SZABIST Islamabad (2022 to 2026)
-- **Microsoft Certified: Azure AI Fundamentals** (August 2026)
-- **AI, Machine Learning & Deep Learning**, NAVTTC (Govt. of Pakistan)
+<h2>Technical toolkit</h2>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=hamdan-a11y&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242740933%3Fu%3Dbf09e0d23366562e0aa946bd02d950e5b70b80a4%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=hamdan-a11y&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242740933%3Fu%3Dbf09e0d23366562e0aa946bd02d950e5b70b80a4%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Muhammad Hamdan technology stack" />
+</picture>
+</p>
 
-⭐ Feel free to explore my repositories, and reach out if you'd like to work together!
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>90% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=hamdan-a11y&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242740933%3Fu%3Dbf09e0d23366562e0aa946bd02d950e5b70b80a4%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=hamdan-a11y&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242740933%3Fu%3Dbf09e0d23366562e0aa946bd02d950e5b70b80a4%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Muhammad Hamdan contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/hamdan-a11y">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Muhammad Hamdan · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
