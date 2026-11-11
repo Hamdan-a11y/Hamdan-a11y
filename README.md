@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Hamdan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%26%20Full-Stack%20Developer&descSize=22&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="banner.svg" width="100%" alt="Muhammad Hamdan" />
 
 <a href="https://github.com/Hamdan-a11y">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=640&lines=Deep+Learning+%26+NLP;Building+Transformers+from+scratch;Full-Stack+Web+Development;Preparing+for+MS+in+AI" alt="Typing SVG" />
@@ -82,6 +82,5 @@ CS graduate from SZABIST Islamabad with hands-on experience in **deep learning**
 
 Open to conversations about AI projects, research ideas and collaboration.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
